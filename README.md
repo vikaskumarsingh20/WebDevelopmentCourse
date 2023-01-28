@@ -1,5 +1,5 @@
 # WebDevelopmentCourse
-                                                                1.PARALLEX WEBSITE
+                                                           1.PARALLEX WEBSITE
 <!-- ![AILandpng](https://user-images.githubusercontent.com/92667215/215287577-e499aed6-6e7e-42e0-b3c0-7a52c524bce5.png) -->
 
 
