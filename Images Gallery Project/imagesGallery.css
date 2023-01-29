@@ -1,0 +1,94 @@
+* {
+  margin:0;
+  padding:0;
+  /* for set the text on box */
+  box-sizing:border-box;
+}
+
+#wrapper{
+  height:100vh;
+  overflow-x:hidden;
+  overflow-y:auto;
+}
+
+.container{
+  height:100%;
+  max-width:1200px;
+  /* for center */
+  margin:0 auto;
+  padding:20px;
+}
+
+.container h1{
+  margin: 20px 100px;
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 3rem;
+}
+
+.gallery{
+  /* for hr */
+  display: flex;
+  /* spcaing */
+  flex-wrap: wrap;
+  /* equally space b/w them */
+  justify-content: space-between;
+}
+
+
+ .card {
+  /* its why? bcz divided into equally part 32 +32 +32 + 4gap b/w them */
+  width:32%;
+  position:relative;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+ 
+.card img{
+  
+  width:100%;
+  height:100%;
+  /* for black& white */
+  filter: grayscale(100%);
+  box-shadow: 0 0 20px #333;
+  object-fit: cover;
+}
+
+.card:hover {
+  /* img zoom */
+  transform: scale(1.03);
+  /* timing */
+  transition: 0.5s;
+  /* for shadow behind img  */
+  filter: drop-shadow(0 0 10px #333);
+}
+
+
+.card:hover img {
+  /* dark mode to color mode */
+  filter: grayscale(0%);
+}
+
+.card figcaption{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding: 25px;
+  width: 100%;
+  height: 20%;
+  font-size: 16px;
+  font-weight: 500;
+  color: #fff;
+  /* hiding text */
+  opacity: 0;
+  border-radius: 0 0 10px 10px;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.5) 0%, rgba(255, 255, 255, 0) 100%);
+  transition: 0.3s;
+}
+
+/* for text show when hover on img */
+.card:hover figcaption {
+  opacity: 1;
+  transform: scale(1.03);
+}  
