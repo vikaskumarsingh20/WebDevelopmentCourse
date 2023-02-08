@@ -1,6 +1,8 @@
 
                                                 PORTFOLIO WEBSITE WITH RESPONSIVE
- ![Screenshot_20230205_172256](https://user-images.githubusercontent.com/92667215/216833912-09c049c1-5136-4d8a-9b29-11100778b3b6.png)
+ <!-- ![Screenshot_20230205_172256](https://user-images.githubusercontent.com/92667215/216833912-09c049c1-5136-4d8a-9b29-11100778b3b6.png) -->
+![Screenshot_20230208_232742](https://user-images.githubusercontent.com/92667215/217613646-c4a72c47-b466-44ba-a13a-f4be6fed8ff5.png) 
+
 
              
 
