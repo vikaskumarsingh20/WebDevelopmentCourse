@@ -23,3 +23,14 @@
    
 
 ![Screenshot_20230130_014016](https://user-images.githubusercontent.com/92667215/215353404-c1e65734-4c11-4bdd-a994-dd3bfb6c50d0.png)
+
+
+
+
+                                                  RAZORPAY CLONE WITH RESPONSIVE 
+![Screenshot 2023-03-07 000446](https://user-images.githubusercontent.com/92667215/223319829-7e8f17fa-1e07-4022-b806-a685d08c04ef.png)
+![Screenshot 2023-03-07 000548](https://user-images.githubusercontent.com/92667215/223319904-06060a4b-f4f6-4f40-8f08-68d6f08a1e71.png)
+![Screenshot 2023-03-07 000527](https://user-images.githubusercontent.com/92667215/223319889-04bd1e59-c025-4e1a-9f39-f8bc7aede814.png)
+![Screenshot 2023-03-07 000639](https://user-images.githubusercontent.com/92667215/223319950-b95d3e8f-eb83-40a3-bcec-269bdef0f110.png)
+![Screenshot 2023-03-07 000702](https://user-images.githubusercontent.com/92667215/223319982-39bc0bd9-2eac-4b68-8ada-778fc8ddcb3b.png)
+
