@@ -29,8 +29,18 @@
 
                                                   RAZORPAY CLONE WITH RESPONSIVE 
 ![Screenshot 2023-03-07 000446](https://user-images.githubusercontent.com/92667215/223319829-7e8f17fa-1e07-4022-b806-a685d08c04ef.png)
-![Screenshot 2023-03-07 000548](https://user-images.githubusercontent.com/92667215/223319904-06060a4b-f4f6-4f40-8f08-68d6f08a1e71.png)
-![Screenshot 2023-03-07 000527](https://user-images.githubusercontent.com/92667215/223319889-04bd1e59-c025-4e1a-9f39-f8bc7aede814.png)
 ![Screenshot 2023-03-07 000639](https://user-images.githubusercontent.com/92667215/223319950-b95d3e8f-eb83-40a3-bcec-269bdef0f110.png)
-![Screenshot 2023-03-07 000702](https://user-images.githubusercontent.com/92667215/223319982-39bc0bd9-2eac-4b68-8ada-778fc8ddcb3b.png)
+![Screenshot 2023-03-07 000527](https://user-images.githubusercontent.com/92667215/223319889-04bd1e59-c025-4e1a-9f39-f8bc7aede814.png)
+![Screenshot 2023-03-07 000548](https://user-images.githubusercontent.com/92667215/223319904-06060a4b-f4f6-4f40-8f08-68d6f08a1e71.png)
+
+ 
+
+
+                                                   DISCORD CLONE WITH RESPONSIVE
+![Screenshot 2023-03-08 231706](https://user-images.githubusercontent.com/92667215/223791535-99936671-1201-4a43-a100-7cb3abd3a60d.png)
+![Screenshot 2023-03-08 231753](https://user-images.githubusercontent.com/92667215/223791569-2816b27b-a36c-4452-8b77-394e049b29fa.png)
+![Screenshot 2023-03-08 231859](https://user-images.githubusercontent.com/92667215/223791478-2eef4f7a-b95d-4c41-a4da-8a6a60ad3b0e.png)
+![Screenshot 2023-03-08 231916](https://user-images.githubusercontent.com/92667215/223791410-8a5c02a3-a363-4c46-abeb-bd3492af1023.png)
+
+
 
