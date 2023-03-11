@@ -38,14 +38,12 @@
 
 
 
- 
+      
+                                        DISCORD CLONE WITH RESPONSIVE
+           
+https://user-images.githubusercontent.com/92667215/224466374-581e466f-4328-4c16-9c71-b76c9ea221ec.mp4
 
 
-                                                   DISCORD CLONE WITH RESPONSIVE
-![Screenshot 2023-03-08 231706](https://user-images.githubusercontent.com/92667215/223791535-99936671-1201-4a43-a100-7cb3abd3a60d.png)
-![Screenshot 2023-03-08 231753](https://user-images.githubusercontent.com/92667215/223791569-2816b27b-a36c-4452-8b77-394e049b29fa.png)
-![Screenshot 2023-03-08 231859](https://user-images.githubusercontent.com/92667215/223791478-2eef4f7a-b95d-4c41-a4da-8a6a60ad3b0e.png)
-![Screenshot 2023-03-08 231916](https://user-images.githubusercontent.com/92667215/223791410-8a5c02a3-a363-4c46-abeb-bd3492af1023.png)
 
 
 
