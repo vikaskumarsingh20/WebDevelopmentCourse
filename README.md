@@ -4,9 +4,8 @@
 ![Screenshot_20230208_232742](https://user-images.githubusercontent.com/92667215/217613646-c4a72c47-b466-44ba-a13a-f4be6fed8ff5.png) 
 
                                                   MODERN CHAIR RESPONSIVE 
-   ![Screenshot_20230209_141547](https://user-images.githubusercontent.com/92667215/217818228-8507ffe8-379a-4889-bdc2-b9f9b646b582.png)
-
- 
+<!--    ![Screenshot_20230209_141547](https://user-images.githubusercontent.com/92667215/217818228-8507ffe8-379a-4889-bdc2-b9f9b646b582.png) -->
+   https://user-images.githubusercontent.com/92667215/224469459-2f05008c-8b0e-4632-bf13-bc8178f40b03.mp4
  
                                                    IMAGES GALLERY WEBSITE  RESPONSIVE
  
