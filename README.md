@@ -26,20 +26,13 @@
 
 
 
+                                    RAZORPAY CLONE WITH RESPONSIVE USING TAILWIND CSS                     
 
-                                                  RAZORPAY CLONE WITH RESPONSIVE 
-                                                  
-![Screenshot 2023-03-07 000446](https://user-images.githubusercontent.com/92667215/223319829-7e8f17fa-1e07-4022-b806-a685d08c04ef.png)
-![Screenshot 2023-03-07 000527](https://user-images.githubusercontent.com/92667215/223319889-04bd1e59-c025-4e1a-9f39-f8bc7aede814.png)
-![Screenshot 2023-03-07 000548](https://user-images.githubusercontent.com/92667215/223319904-06060a4b-f4f6-4f40-8f08-68d6f08a1e71.png)
-![Screenshot 2023-03-07 000639](https://user-images.githubusercontent.com/92667215/223319950-b95d3e8f-eb83-40a3-bcec-269bdef0f110.png)
-![Screenshot 2023-03-07 000702](https://user-images.githubusercontent.com/92667215/223795729-ad1fa132-12ac-4f75-983b-187b1ee03d1e.png)
+https://user-images.githubusercontent.com/92667215/224467111-85e11289-d5df-4be2-8d39-1d47b043bc21.mp4
 
-
-
-
+                             
       
-                                        DISCORD CLONE WITH RESPONSIVE
+                                     DISCORD CLONE WITH RESPONSIVE USING TAILWIND CSS
            
 https://user-images.githubusercontent.com/92667215/224466374-581e466f-4328-4c16-9c71-b76c9ea221ec.mp4
 
