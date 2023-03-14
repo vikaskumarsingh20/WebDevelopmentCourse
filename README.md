@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/92667215/224476689-ba8c134f-e950-48f8-
 
    https://user-images.githubusercontent.com/92667215/224469214-80140c09-15d5-493f-a870-548e9ada231f.mp4
 
-                                                    PARALLEX WEBSITE USING HTML CSS
+                                                     PARALLEX WEBSITE USING HTML CSS
                                                      
 <!-- ![AILandpng](https://user-images.githubusercontent.com/92667215/215287577-e499aed6-6e7e-42e0-b3c0-7a52c524bce5.png) -->
 
